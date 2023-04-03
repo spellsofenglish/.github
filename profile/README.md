@@ -12,10 +12,10 @@ Edu-Gaming is a company that is devoted to creating high-quality educational gam
 
 Edu-Gaming is comprised of a team of experienced game developers and educators. The team is composed of the following members:
 
-- John Doe, Lead Developer
-- Jane Smith, Game Designer
-- Mark Johnson, Educator
-- Sarah Lee, Graphic Designer
+- J, Lead Developer
+- J, Game Designer
+- M, Educator
+- A, Graphic Designer
 
 Each member of the team brings their unique set of skills and expertise to the project, making it a well-rounded and successful endeavor. John Doe is a highly skilled developer who has worked on numerous games in the past. He is responsible for leading the development team and ensuring that the game is of the highest quality. Jane Smith is a talented game designer who has a passion for creating engaging and immersive game experiences. Mark Johnson is an experienced educator who has a deep understanding of how children learn. He is responsible for ensuring that the game is both fun and educational. Sarah Lee is a skilled graphic designer who is responsible for creating the game's visuals and making sure that they are appealing to young learners.
 
